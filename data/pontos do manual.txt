@@ -1,0 +1,10 @@
+PDA - Plano de dados abertos
+LAI - lei de acesso á informação
+Dicionários de dados
+metadados
+disponibilização dos dados para a população
+LGPD - lei geral da proteção de dados
+Os dados devem ser disponibilzados para que os cidadões tenham noção dos serviços prestados.
+uso de Apis para a publicação de dados públicos - interface de programação de aplicação
+uso de linguagem cidadã
+
